@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Here is seungwoo blog
 ---
 
